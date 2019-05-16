@@ -1,0 +1,7 @@
+{
+  "name": "Ripx_App",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
